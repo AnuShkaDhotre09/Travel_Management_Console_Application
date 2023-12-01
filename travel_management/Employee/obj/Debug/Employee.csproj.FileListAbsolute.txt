@@ -1,0 +1,16 @@
+D:\class demo\C#\travel_management\Employee\bin\Debug\Employee.exe.config
+D:\class demo\C#\travel_management\Employee\bin\Debug\Employee.exe
+D:\class demo\C#\travel_management\Employee\bin\Debug\Employee.pdb
+D:\class demo\C#\travel_management\Employee\bin\Debug\travel_management.dll
+D:\class demo\C#\travel_management\Employee\bin\Debug\travel_management.pdb
+D:\class demo\C#\travel_management\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\class demo\C#\travel_management\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\class demo\C#\travel_management\Employee\obj\Debug\Employee.csproj.CopyComplete
+D:\class demo\C#\travel_management\Employee\obj\Debug\Employee.exe
+D:\class demo\C#\travel_management\Employee\obj\Debug\Employee.pdb
+D:\class demo\C#\travel_management\Employee\bin\Debug\ClassLibrary_DataAcessLayer.dll
+D:\class demo\C#\travel_management\Employee\bin\Debug\ClassLibrary_DataAcessLayer.pdb
+D:\class demo\C#\travel_management\Employee\bin\Debug\ClassLibrary_Business_Acess_Layer.dll
+D:\class demo\C#\travel_management\Employee\bin\Debug\ClassLibrary_Menu.dll
+D:\class demo\C#\travel_management\Employee\bin\Debug\ClassLibrary_Business_Acess_Layer.pdb
+D:\class demo\C#\travel_management\Employee\bin\Debug\ClassLibrary_Menu.pdb

@@ -1,0 +1,11 @@
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\obj\Debug\ClassLibrary_Business_Acess_Layer.csproj.AssemblyReference.cache
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\obj\Debug\ClassLibrary_Business_Acess_Layer.csproj.CoreCompileInputs.cache
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\bin\Debug\ClassLibrary_Business_Acess_Layer.dll
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\bin\Debug\ClassLibrary_Business_Acess_Layer.pdb
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\obj\Debug\ClassLibrary_Business_Acess_Layer.dll
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\obj\Debug\ClassLibrary_Business_Acess_Layer.pdb
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\bin\Debug\ClassLibrary_DataAcessLayer.dll
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\bin\Debug\travel_management.dll
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\bin\Debug\ClassLibrary_DataAcessLayer.pdb
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\bin\Debug\travel_management.pdb
+D:\class demo\C#\travel_management\ClassLibrary_Business_Acess_Layer\obj\Debug\ClassLibrary_Business_Acess_Layer.csproj.CopyComplete
